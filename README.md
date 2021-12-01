@@ -10,7 +10,7 @@
   
  
  <!--
- 
+ My name is Emanuelle Moço and i am a Computer Engineering student at INSPER
   <div>
   <h3 align="left">Languages and Tools 🛠 </h3>
 </div>
