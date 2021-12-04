@@ -1,10 +1,13 @@
 <h1 align="center">Hi there 👋, welcome to my GitHub page! </h1>
 <br>
 
+  <div>
+  <h3 align="left">:bust_in_silhouette:&nbsp;&nbsp;Abou&nbsp;me&nbsp; </h3>
+</div>
 <div>
 <p align="left">
-- 🔭 My name is Emanuelle Moço <br>
-- 🌱 I am a Computer Engineering student at INSPER
+- 	:blossom: My name is Emanuelle Moço <br>
+- :computer: I am a Computer Engineering student at INSPER
  </p>
 </div>
 <br>
