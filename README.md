@@ -7,7 +7,7 @@
 - 🌱 I am a Computer Engineering student at INSPER
  </h3>
 </div>
-<br><br><br>
+<br><br>
   <div>
   <h3 align="left">🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools </h3>
 </div>
@@ -33,13 +33,13 @@
   </details>
 </div>
 
+<br>
 
 
 
-
-  <div>
+  <div><p align="center"> 
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=emanuellemoco&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellemoco&&layout=compact&hide=shell&theme=highcontrast">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellemoco&&layout=compact&hide=shell&theme=highcontrast"> </p>
   </div>
   
  
