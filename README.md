@@ -2,10 +2,10 @@
 <br>
 
 <div>
-<h3 align="left">
+<p align="left">
 - 🔭 My name is Emanuelle Moço <br>
 - 🌱 I am a Computer Engineering student at INSPER
- </h3>
+ </p>
 </div>
 <br>
   <div>
