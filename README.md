@@ -2,7 +2,7 @@
 <br>
 
   <div>
-  <h3 align="left">:bust_in_silhouette:&nbsp;&nbsp;Abou&nbsp;me&nbsp; </h3>
+  <h3 align="left">&nbsp;&nbsp;About&nbsp;me&nbsp; </h3>
 </div>
 <div>
 <p align="left">
