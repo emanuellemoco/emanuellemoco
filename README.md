@@ -3,11 +3,11 @@
 
 <div>
 <h3 align="left">
-- 🔭 My name is Emanuelle Moço 
+- 🔭 My name is Emanuelle Moço <br>
 - 🌱 I am a Computer Engineering student at INSPER
  </h3>
 </div>
-
+<br><br><br>
   <div>
   <h3 align="left">🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools </h3>
 </div>
