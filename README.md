@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="c#" width="40" height="40"/> </a> 
-    <img src="https://www.vhv.rs/dpng/d/490-4905392_download-ibm-watson-logo-transparent-1-ibm-watson.png" alt="ibmWatson" width="40" height="40"/> </a>     
+    <img src="https://img2.gratispng.com/20180821/eec/kisspng-schild-vorsicht-dachlawinen-b-25-xh-15-mm-kunststo-digital-switchboard-speech-recognition-technolog-5b7c6e23de06f9.1765385715348813159094.jpg" alt="ibmWatson" width="40" height="40"/> </a>     
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
